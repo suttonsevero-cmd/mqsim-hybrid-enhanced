@@ -4,7 +4,7 @@ MQSim-Hybrid extends [CMU-SAFARI/MQSim](https://github.com/CMU-SAFARI/MQSim) wit
 
 The implementation models an SLC region within a QLC-based SSD using configurable page counts and access latencies. It provides a base simulator for studying SLC buffering, migration overhead, garbage collection (GC), and foreground I/O performance. It does not include the separate LightGBM placement or online-refit experiments.
 
-The comparison below uses upstream commit [`51f0f2d3fed92d88ef4a0fa61a38024b07bf9d16`](https://github.com/CMU-SAFARI/MQSim/tree/51f0f2d3fed92d88ef4a0fa61a38024b07bf9d16) as its reference. The original MQSim documentation is preserved in [docs/UPSTREAM_README.md](docs/UPSTREAM_README.md).
+The comparison below uses upstream commit [`51f0f2d3fed92d88ef4a0fa61a38024b07bf9d16`](https://github.com/CMU-SAFARI/MQSim/tree/51f0f2d3fed92d88ef4a0fa61a38024b07bf9d16) as its reference.
 
 ## Changes from upstream MQSim
 
